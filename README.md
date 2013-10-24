@@ -1,0 +1,4 @@
+easynews
+========
+
+EasyNews Plugin 
